@@ -13,6 +13,13 @@
     "supports_function_calling": true,
     "reasoning_effort_levels": ["low", "medium", "xhigh"]
   },
+  "swift-1.5-qwen3.8-27b-paro-mxfp6": {
+    "provider": "vllm",
+    "mode": "chat",
+    "supports_reasoning": true,
+    "supports_function_calling": true,
+    "reasoning_effort_levels": ["low", "medium", "xhigh"]
+  },
   "qwen3.8-27b-fp8": {
     "provider": "vllm",
     "mode": "chat",
