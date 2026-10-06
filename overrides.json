@@ -28,7 +28,7 @@
     "reasoning_effort_levels": ["low", "medium", "xhigh"]
   },
   "qwen3.8-flash-next-iq4r-i8": {
-    "provider": "vllm",
+    "provider": "Radiance",
     "mode": "chat",
     "supports_reasoning": true,
     "supports_function_calling": true,
